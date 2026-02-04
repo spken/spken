@@ -1,4 +1,4 @@
-# Experience
+# Experience - [whoami?](https://spken.github.io/whoami/)
 
 Chief Evangelist for Recursive Neural Refactoring and Technical Debt Accumulation. Former VP of Premature Optimization at the Institute of Unnecessarily Complex Solutions. Distinguished Keyboard Warrior at StackOverflow-Without-Context, Inc.
 
@@ -10,5 +10,3 @@ Chief Evangelist for Recursive Neural Refactoring and Technical Debt Accumulatio
 - The ancient art of appearing busy while waiting for builds
 
 If someone ever messages me "hey" without any context again, I'll switch to Vim. Oh wait...
-
-[whoami?](https://spken.github.io/whoami/)
